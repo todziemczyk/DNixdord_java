@@ -15,8 +15,8 @@
       <file leaf-file-name="PrinterSpec.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/codecouple/PrinterSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="561">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -25,13 +25,13 @@
       <file leaf-file-name="Printer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/codecouple/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="e#302#303#0" expanded="true" />
                 <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,8 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/codecouple/Printer.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/codecouple/PrinterSpec.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/codecouple/Printer.java" />
       </list>
     </option>
   </component>
@@ -354,8 +354,8 @@
     <history-entry file="PrinterSpec_delete_'a'_from_'abc' - 2018.02.09 at 23h 40m 48s.xml">
       <configuration name="PrinterSpec.delete 'a' from 'abc'" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrinterSpec_return_indexOf_'a'_char_from_'abc' - 2018.02.09 at 23h 26m 40s.xml">
-      <configuration name="PrinterSpec.return indexOf 'a' char from 'abc'" configurationId="JUnit" />
+    <history-entry file="PrinterSpec_delete_'a'_from_'abc' - 2018.02.09 at 23h 43m 40s.xml">
+      <configuration name="PrinterSpec.delete 'a' from 'abc'" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrinterSpec_return_indexOf_'a'_char_from_'abc' - 2018.02.09 at 23h 26m 53s.xml">
       <configuration name="PrinterSpec.return indexOf 'a' char from 'abc'" configurationId="JUnit" />
@@ -386,7 +386,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -417,21 +417,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/codecouple/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#302#303#0" expanded="true" />
             <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/codecouple/PrinterSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="561">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
