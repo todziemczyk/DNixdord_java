@@ -5,9 +5,10 @@ import java.lang.Void as Should
 
 class PrinterSpec extends Specification {
 
+    Printer printer = new Printer('abc')
+
     Should "return reverse string"() {
         given:
-            Printer printer = new Printer('abc')
         when:
             def result = printer.reverseString()
         then:
@@ -15,11 +16,19 @@ class PrinterSpec extends Specification {
     }
 
     Should "return indexOf 'a' char from 'abc'"() {
-
+        given:
+        when:
+            def result = printer.findIndexOf('a')
+        then:
+            result == 1 || 0
     }
 
     Should "delete 'a' from 'abc'"() {
-
+        given:
+        when:
+            def result = printer.deleteFrom('a')
+        then:
+            result == 'bc'
     }
 
     Should "thrown IllegalArgumentException when given String in constructor is null or empty" () {

@@ -12,4 +12,11 @@ class Printer {
         return stringBuilder.reverse().toString();
     }
 
+    public int findIndexOf(String a) {
+        return stringBuilder.indexOf(a);
+    }
+
+    public StringBuilder deleteFrom(String a) {
+        return stringBuilder.deleteCharAt(findIndexOf(a));
+    }
 }
