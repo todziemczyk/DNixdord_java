@@ -19,4 +19,6 @@ class Printer {
     public String deleteFrom(String a) {
         return stringBuilder.deleteCharAt(findIndexOf(a)).toString();
     }
+
+
 }

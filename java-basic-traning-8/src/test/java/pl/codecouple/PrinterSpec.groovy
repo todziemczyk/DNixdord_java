@@ -32,11 +32,19 @@ class PrinterSpec extends Specification {
     }
 
     Should "thrown IllegalArgumentException when given String in constructor is null or empty" () {
+        given:
+        when:
+            def result = printer.
+        then:
 
     }
 
     Should "return lastIndexOf 'c' char from 'abc'"() {
-
+        given:
+        when:
+            def result = printer.lastIndexOf('c')
+        then:
+            result== 2
     }
 
 }
