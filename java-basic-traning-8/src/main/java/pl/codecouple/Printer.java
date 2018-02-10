@@ -4,6 +4,18 @@ class Printer {
 
     private StringBuilder stringBuilder;
 
+    public Printer(StringBuilder stringBuilder) {
+        this.stringBuilder = stringBuilder;
+    }
+
+    public StringBuilder getStringBuilder() {
+        return stringBuilder;
+    }
+
+    public void setStringBuilder(StringBuilder stringBuilder) {
+        this.stringBuilder = stringBuilder;
+    }
+
     Printer(String text) {
         this.stringBuilder = new StringBuilder(text);
     }
@@ -21,4 +33,7 @@ class Printer {
     }
 
 
+    public int getLastIndexOfChar(String a) {
+        return stringBuilder.lastIndexOf(a);
+    }
 }

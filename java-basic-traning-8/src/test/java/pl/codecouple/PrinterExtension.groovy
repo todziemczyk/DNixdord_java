@@ -2,7 +2,8 @@ package pl.codecouple
 
 class PrinterExtension extends  Exception{
 
-    public  IllegalArgumentException (String message) {
-
+    PrinterExtension(String s) {
+        super(s)
     }
+
 }
